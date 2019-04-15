@@ -1,0 +1,152 @@
+.grid-container {
+    padding: 3px;
+    box-sizing: border-box;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.grid-cell-0 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-image: url(habibou/0.png);
+    background-color: #001f3f;
+}
+.grid-cell-2 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #0074D9;
+    background-image: url(habibou/2.png);
+}
+.grid-cell-4 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #7FDBFF;
+    background-image: url(habibou/4.png);
+}
+.grid-cell-8 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #39CCCC;
+    background-image: url(habibou/8.png);
+}
+.grid-cell-16 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #3D9970;
+    background-image: url(habibou/16.png);
+}
+.grid-cell-32 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #2ECC40;
+    background-image: url(habibou/32.png);
+}
+.grid-cell-64 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #01FF70;
+    background-image: url(habibou/64.png);
+}
+.grid-cell-128 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #FFDC00;
+    background-image: url(habibou/128.png);
+}
+.grid-cell-256 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #FF851B;
+    background-image: url(habibou/256.png);
+}
+.grid-cell-512 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #FF4136;
+    background-image: url(habibou/512.png);
+}
+.grid-cell-1024 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #85144b;
+    background-image: url(habibou/1024.png);
+}
+.grid-cell-2048 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #F012BE;
+    background-image: url(habibou/2048.png);
+}
+.grid-cell-4096 {
+    text-align: center;
+    line-height: 115px;
+    float: left;
+    height: 115px;
+    width: 115px;
+    border: 1px solid blue;
+    margin: 3px;
+    background-color: #111111;
+    background-image: url(habibou/4096.png);
+}
